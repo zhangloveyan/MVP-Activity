@@ -2,7 +2,7 @@ package ${packageName};
 
 import java.util.List;
 
-public class ${activityClass}Contract {
+public interface ${activityClass}Contract {
 
     interface View extends IView {
         /**
